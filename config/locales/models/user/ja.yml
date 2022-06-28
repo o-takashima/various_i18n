@@ -1,0 +1,6 @@
+ja:
+  errors:
+    attributes:
+      account:
+        required: '必須です'
+        invalid_email: 'メアドも必須'

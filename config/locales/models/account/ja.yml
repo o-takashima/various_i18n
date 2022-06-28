@@ -1,0 +1,10 @@
+ja:
+  errors:
+    attributes:
+      email:
+        blank: "空っぽよ"
+      users:
+        invalid_name: "%{name}は禁止です"
+  
+  
+  

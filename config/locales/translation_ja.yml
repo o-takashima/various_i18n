@@ -1,0 +1,15 @@
+ja:
+  activerecord:
+    models:
+      account: アカウント  #g
+      user: ユーザー  #g
+
+    attributes:
+      account:
+        email: Eメール  #g
+        users: ユーザー  #g
+
+      user:
+        account: :activerecord.models.account  #g
+        birthday: 誕生日  #g
+        name: 名前  #g
